@@ -57,7 +57,7 @@ h1 {
     text-decoration: none;
     padding: 7px;
     background-color: tomato;
-    color: #000;
+    color: white;
     border-radius: 5px;
 }
 
@@ -156,6 +156,10 @@ hr {
     width: 50%;
     padding: 10px;
     font-size: 20px;
+}
+
+.help-text p {
+    text-align: start;
 }
 
 .help-img {
