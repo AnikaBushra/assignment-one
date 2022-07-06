@@ -73,12 +73,18 @@ section {
 
 }
 
+#donation-text {
+    width: 50%;
+    margin: auto;
+}
+
 .plan {
     width: 30%;
     margin: 30px 10px;
     text-align: center;
     padding: 10px;
 }
+
 
 #icon {
     height: 55px;
@@ -149,13 +155,14 @@ hr {
 .help-portion {
     display: flex;
     width: 90%;
-    margin: 10px 0px 50px 55px;
+    margin: 100px 0px 50px 55px;
 }
 
 .help-text {
     width: 50%;
     padding: 10px;
     font-size: 20px;
+    height: 300px;
 }
 
 .help-text p {
@@ -165,12 +172,10 @@ hr {
 .help-img {
     padding: 10px;
     width: 550px;
-    height: 400px;
+    height: 300px;
 }
 
 p {
     font-size: 20px;
-    width: 50%;
-    margin: auto;
     margin-bottom: 20px;
 }
