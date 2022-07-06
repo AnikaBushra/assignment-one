@@ -63,4 +63,81 @@ h1 {
 
 section {
     text-align: center;
+    padding-top: 50px;
+
+}
+
+.donation-plan {
+    display: flex;
+    padding-left: 5%;
+
+}
+
+.plan {
+    width: 30%;
+    margin: 30px 10px;
+    text-align: center;
+    padding: 10px;
+}
+
+#icon {
+    height: 55px;
+}
+
+#medicine {
+    background-color: rgb(245, 203, 196);
+}
+
+#shelter {
+    background-color: rgb(179, 193, 205);
+}
+
+#food {
+    background-color: rgb(194, 243, 159);
+}
+
+form {
+    background-color: rgb(216, 178, 164);
+    height: 150px;
+    width: 50%;
+    margin: auto;
+}
+
+#email {
+    height: 25px;
+    width: 200px;
+    margin-top: 70px;
+    border-radius: 5px;
+    background-color: rgb(231, 225, 225);
+    border: 3px solid rgb(231, 225, 225);
+}
+
+#subscribe {
+    height: 29px;
+    border-radius: 5px;
+    background-color: rgb(232, 103, 103);
+    color: white;
+    border: 3px solid rgb(232, 103, 103);
+}
+
+footer {
+    text-align: center;
+    margin-top: 200px;
+    background-color: rgb(65, 61, 61);
+    height: 200px;
+    padding: 20px;
+    color: white;
+    font-family: 'Lobster', cursive;
+    color: tomato;
+}
+
+#amount {
+    border: 0px;
+    margin: 30px 0px 10px 35px;
+    color: black;
+}
+
+hr {
+    margin-bottom: 30px;
+    width: 50%;
 }
